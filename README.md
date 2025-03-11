@@ -22,6 +22,9 @@ In images folder my certificates about courses that I've completed.
 - https://www.youtube.com/watch?v=qqGxKDOR2DY&t=5266s - Test Selenium, Allure, GitHub Actions
 - https://www.youtube.com/watch?v=WrlmPjeGizU&t=4331s - Test Api req, Gitlab CI
 
+## Javascript
+- https://learn.javascript.ru/ - tutorial
+
 ## Testing
 - https://www.youtube.com/watch?v=6YZvp2GwT0A - Jenkins tutorial
 - https://www.youtube.com/watch?v=5LQoM95wCdg - Influxdb + Grafana connect
@@ -47,6 +50,7 @@ In images folder my certificates about courses that I've completed.
 - https://habr.com/ru/articles/871168/ - article about ETH + Metamask
 - https://github.com/g7AzaZLO?tab=repositories - repo with web3 python (in general) projects
 - https://learn.metamask.io/lessons/what-is-web3 - Base tutorial
+- https://teletype.g7team.tech/ - nodes tutorial
 
 ## Interesting topics
 - https://habr.com/ru/companies/otus/articles/888450/ - about PageObject and PageFactory
@@ -73,3 +77,5 @@ In images folder my certificates about courses that I've completed.
 - https://github.com/KRTirtho/spotube?tab=readme-ov-file - Spotify client
 - https://github.com/Flowseal/zapret-discord-youtube - Zapret YT and Discord
 - https://github.com/GVCoder09/nodpi -NoDPI Python project
+- https://github.com/clear-code-projects/Python-Monsters/tree/main - Python Pokemon game
+- https://github.com/g7AzaZLO/web3automatization - web3 auto project
