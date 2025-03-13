@@ -14,6 +14,8 @@ In images folder my certificates about courses that I've completed.
 - https://www.youtube.com/playlist?list=PLOJzCFLZdG4zk5d-1_ah2B4kqZSeIlWtt - Chess writing (old)
 - https://habr.com/ru/companies/alfastrah/articles/823974/ - TLS with CryptoPro
 - https://java-online.ru/index.xhtml - Java basics
+- https://www.youtube.com/watch?v=vB9BVTz5xrI&t=34075s - spring boot big course
+- https://www.youtube.com/watch?v=MPXuADe_5Eg&t=693s - camunda guide for beginners
 
 ## Python
 - https://www.youtube.com/watch?v=fo4e3njyGy0 - Pokemon JRPG game tutorial
@@ -79,3 +81,5 @@ In images folder my certificates about courses that I've completed.
 - https://github.com/GVCoder09/nodpi -NoDPI Python project
 - https://github.com/clear-code-projects/Python-Monsters/tree/main - Python Pokemon game
 - https://github.com/g7AzaZLO/web3automatization - web3 auto project
+- https://github.com/polarnik - load test repos
+- https://github.com/antonaleks/DockerPractice - docker init repo
