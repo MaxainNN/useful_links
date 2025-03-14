@@ -37,6 +37,7 @@ In images folder my certificates about courses that I've completed.
 - https://www.youtube.com/watch?v=Y6GBBoNOgTk&list=PLoZfdp36DZcoBeCxz_q3YX4I4NaWW6Kn0&index=7 - Playwright tutorial
 - https://habr.com/ru/companies/rostelecom/articles/748444/ - Gradle tutorial
 - https://www.rstqb.org/ru/istqb-downloads.html - ISTQB materials
+- https://habr.com/ru/articles/887964/ - locators finding in UI tests
 
 ## Network
 - https://www.youtube.com/watch?v=gJNkZKRrKnk - base config VPN (old)
@@ -69,6 +70,7 @@ In images folder my certificates about courses that I've completed.
 - https://allurereport.org/docs/ - Allure
 - https://junit.org/junit5/docs/current/user-guide/ - JUnit 5
 - https://testng.org/ - TestNG
+- https://playwright.dev/docs/intro - Playwright
 
 
 ## Learn Algorithms and Code
