@@ -50,6 +50,7 @@ In images folder my certificates about courses that I've completed.
 - https://www.youtube.com/@metaligh/videos - Vpn guides
 - https://vpn4tv.com/quick-guide.html -VPN4TV 
 - https://timeweb.cloud/tutorials/network-security/obzor-i-prakticheskoe-ispolzovanie-iptables - iptables article
+- https://habr.com/ru/users/ProstoKirReal/articles/ - articles about basics
 
 ## Git
 - https://learngitbranching.js.org/?locale=ru_RU - git branching tutorial
