@@ -65,6 +65,7 @@ In images folder my certificates about courses that I've completed.
 - https://habr.com/ru/companies/yota/articles/546664/ - Gradle article
 - https://dev.to/ansonh/customize-beautify-your-windows-terminal-2022-edition-541l - Customize terminal
 - https://habr.com/ru/companies/maxilect/articles/799177/ - CI/CD tutorial
+- https://habr.com/ru/companies/idaproject/articles/889600/ - offset explorer tutorial
 
 ## Documentation
 - https://allurereport.org/docs/ - Allure
