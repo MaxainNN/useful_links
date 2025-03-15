@@ -39,11 +39,17 @@ In images folder my certificates about courses that I've completed.
 - https://www.rstqb.org/ru/istqb-downloads.html - ISTQB materials
 - https://habr.com/ru/articles/887964/ - locators finding in UI tests
 
+## Jenkins
+- https://www.jenkins.io/doc/book/installing/docker/ - docker installation
+- https://www.jenkins.io/doc/book/using/using-agents/ - agents using
+- https://timeweb.cloud/tutorials/ci-cd/avtomatizaciya-nastrojki-jenkins-s-pomoshchyu-docker - guide how setup in docker with agents
+
 ## Network
 - https://www.youtube.com/watch?v=gJNkZKRrKnk - base config VPN (old)
 - https://www.youtube.com/watch?v=zt4oxHeUbdk - big guide about VPN
 - https://www.youtube.com/@metaligh/videos - Vpn guides
 - https://vpn4tv.com/quick-guide.html -VPN4TV 
+- https://timeweb.cloud/tutorials/network-security/obzor-i-prakticheskoe-ispolzovanie-iptables - iptables article
 
 ## Git
 - https://learngitbranching.js.org/?locale=ru_RU - git branching tutorial
@@ -81,8 +87,9 @@ In images folder my certificates about courses that I've completed.
 ## Repositories
 - https://github.com/KRTirtho/spotube?tab=readme-ov-file - Spotify client
 - https://github.com/Flowseal/zapret-discord-youtube - Zapret YT and Discord
-- https://github.com/GVCoder09/nodpi -NoDPI Python project
+- https://github.com/GVCoder09/nodpi - NoDPI Python project
 - https://github.com/clear-code-projects/Python-Monsters/tree/main - Python Pokemon game
 - https://github.com/g7AzaZLO/web3automatization - web3 auto project
 - https://github.com/polarnik - load test repos
 - https://github.com/antonaleks/DockerPractice - docker init repo
+- https://github.com/Kafka-In-Action-Book/Kafka-In-Action-Source-Code - code from "Kafka in Action"
