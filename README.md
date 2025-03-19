@@ -61,6 +61,7 @@ In images folder my certificates about courses that I've completed.
 - https://github.com/g7AzaZLO?tab=repositories - repo with web3 python (in general) projects
 - https://learn.metamask.io/lessons/what-is-web3 - Base tutorial
 - https://teletype.g7team.tech/ - nodes tutorial
+- https://github.com/fullstack-development/blockchain-wiki - web3 wiki
 
 ## Interesting topics
 - https://habr.com/ru/companies/otus/articles/888450/ - about PageObject and PageFactory
