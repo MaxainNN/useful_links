@@ -16,6 +16,7 @@ In images folder my certificates about courses that I've completed.
 - https://java-online.ru/index.xhtml - Java basics
 - https://www.youtube.com/watch?v=vB9BVTz5xrI&t=34075s - spring boot big course
 - https://www.youtube.com/watch?v=MPXuADe_5Eg&t=693s - camunda guide for beginners
+- https://www.youtube.com/@ilyalisov/videos - spring boot base
 
 ## Python
 - https://www.youtube.com/watch?v=fo4e3njyGy0 - Pokemon JRPG game tutorial
