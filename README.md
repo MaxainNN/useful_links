@@ -8,22 +8,19 @@ In images folder my certificates about courses that I've completed.
 - https://doka.guide/tools/ - all things in one place
 - https://habr.com/ru/articles/840116/ - article "How the Internet Works"
 - https://regex101.com/ - work with regular expressions
-- https://www.youtube.com/@suchkov-tech/videos (https://github.com/SuchkovDenis?tab=repositories) - Channel about general things (Elastic, Docker)
 
 ## Java
-- https://www.youtube.com/playlist?list=PLOJzCFLZdG4zk5d-1_ah2B4kqZSeIlWtt - Chess writing (old)
-- https://habr.com/ru/companies/alfastrah/articles/823974/ - TLS with CryptoPro
 - https://java-online.ru/index.xhtml - Java basics
 - https://www.youtube.com/watch?v=vB9BVTz5xrI&t=34075s - spring boot big course
 - https://www.youtube.com/watch?v=MPXuADe_5Eg&t=693s - camunda guide for beginners
-- https://www.youtube.com/@ilyalisov/videos - spring boot base
+- https://www.youtube.com/@suchkov-tech/videos - Channel about general things (Elastic, Docker)
 
 ## Python
 - https://www.youtube.com/watch?v=fo4e3njyGy0 - Pokemon JRPG game tutorial
 - https://habr.com/ru/articles/870110/ - VPN on Python (DPI)
-- https://www.youtube.com/watch?v=o-6pADy5Mdg&t=621s - Space Invaders game (ClearCode)
 - https://www.youtube.com/watch?v=qqGxKDOR2DY&t=5266s - Test Selenium, Allure, GitHub Actions
 - https://www.youtube.com/watch?v=WrlmPjeGizU&t=4331s - Test Api req, Gitlab CI
+- https://www.youtube.com/playlist?list=PLlKID9PnOE5jzJmRYfY0Rs1axrlH4-Qe_ - Elastic base in Python
 
 ## Javascript
 - https://learn.javascript.ru/ - tutorial
@@ -40,11 +37,6 @@ In images folder my certificates about courses that I've completed.
 - https://www.rstqb.org/ru/istqb-downloads.html - ISTQB materials
 - https://habr.com/ru/articles/887964/ - locators finding in UI tests
 
-## Jenkins
-- https://www.jenkins.io/doc/book/installing/docker/ - docker installation
-- https://www.jenkins.io/doc/book/using/using-agents/ - agents using
-- https://timeweb.cloud/tutorials/ci-cd/avtomatizaciya-nastrojki-jenkins-s-pomoshchyu-docker - guide how setup in docker with agents
-
 ## Network
 - https://www.youtube.com/watch?v=gJNkZKRrKnk - base config VPN (old)
 - https://www.youtube.com/watch?v=zt4oxHeUbdk - big guide about VPN
@@ -56,6 +48,7 @@ In images folder my certificates about courses that I've completed.
 ## Git
 - https://learngitbranching.js.org/?locale=ru_RU - git branching tutorial
 - https://smartiqa.ru/courses/git - git course
+- https://www.youtube.com/watch?v=eut-isXtjUU - Gitlab + Allure explanation
 
 ## Web3
 - https://habr.com/ru/articles/871168/ - article about ETH + Metamask
@@ -68,7 +61,6 @@ In images folder my certificates about courses that I've completed.
 - https://habr.com/ru/companies/otus/articles/888450/ - about PageObject and PageFactory
 - https://habr.com/en/articles/491634 - XBOX 360 bunch of articles
 - https://habr.com/ru/articles/865120/ - Kafka visualisation article
-- https://www.profileme.dev/ - Create profile for GitHub
 - https://habr.com/ru/companies/clevertec/articles/876264/ - Camunda tutorial
 - https://habr.com/ru/companies/lanit/articles/844772/ - Logs in testing (Kafka, Kibana, RedHat)
 - https://habr.com/ru/companies/yota/articles/546664/ - Gradle article
@@ -81,6 +73,9 @@ In images folder my certificates about courses that I've completed.
 - https://junit.org/junit5/docs/current/user-guide/ - JUnit 5
 - https://testng.org/ - TestNG
 - https://playwright.dev/docs/intro - Playwright
+- https://appium.io/docs/en/latest/ - appium
+- https://aerokube.com/selenoid/latest/ - selenoid
+- https://selenide.org/documentation.html - selenide
 
 
 ## Learn Algorithms and Code
@@ -96,3 +91,7 @@ In images folder my certificates about courses that I've completed.
 - https://github.com/polarnik - load test repos
 - https://github.com/antonaleks/DockerPractice - docker init repo
 - https://github.com/Kafka-In-Action-Book/Kafka-In-Action-Source-Code - code from "Kafka in Action"
+- https://github.com/deviantony/docker-elk/tree/main - elastic stack docker compose
+- https://gitlab.com/aleksandr-kotlyar/gitlab-allure-history - Gitlab + Allure history
+- https://github.com/shinkai-tester/luma-ui-tests-project - Java UI Selenide tests
+- https://github.com/SuchkovDenis?tab=repositories - Java/Spring/Elastic repos
